@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <COD>1</COD>
+  <NOME>Alexandre Domingues Campos</NOME>
+  <IND_NIVEL>P</IND_NIVEL>
+  <CURRICULO>Pós graduado em Engenharia de Computação</CURRICULO>
+  <TELEFONE>61 99999-9999</TELEFONE>
+  <EMAIL>alexandre@apex.com</EMAIL>
+ </ROW>
+ <ROW>
+  <COD>2</COD>
+  <NOME>Fernando Edmundo Chermont Vidal</NOME>
+  <IND_NIVEL>M</IND_NIVEL>
+  <CURRICULO>Experiência em programação competitiva. Possui diversas certificações profissionais</CURRICULO>
+  <TELEFONE>61 98888-8888</TELEFONE>
+  <EMAIL>fernando@apex.com</EMAIL>
+ </ROW>
+ <ROW>
+  <COD>3</COD>
+  <NOME>Jose Augusto Abreu Sa Fortes</NOME>
+  <IND_NIVEL>S</IND_NIVEL>
+  <CURRICULO>Bacharel em Ciência da Computação</CURRICULO>
+  <TELEFONE>61 97777-7777</TELEFONE>
+  <EMAIL>jose@apex.com</EMAIL>
+ </ROW>
+</ROWSET>
